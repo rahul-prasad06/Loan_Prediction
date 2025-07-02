@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/mlruns/144547382959727504/d57c37adf8e246bc87af4aea2d10c2af/artifacts
+end_time: 1751443590435
+entry_point_name: ''
+experiment_id: '144547382959727504'
+lifecycle_stage: active
+run_id: d57c37adf8e246bc87af4aea2d10c2af
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751443486236
+status: 3
+tags: []
+user_id: prasa

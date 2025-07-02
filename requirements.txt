@@ -7,9 +7,12 @@ xgboost
 joblib
 
 mlflow
+imblearn
 
 fastapi
 uvicorn
 
 streamlit
+
+statsmodel
 -e .

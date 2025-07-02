@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Project/mlruns/144547382959727504/models/m-d490d8e11c7c4294ab62ab9a611bebbf/artifacts
+creation_timestamp: 1751443421131
+experiment_id: '144547382959727504'
+last_updated_timestamp: 1751443444110
+model_id: m-d490d8e11c7c4294ab62ab9a611bebbf
+model_type: null
+name: DecisionTree_model
+source_run_id: a6cb59c0c1a942cabe24a176aab118d8
+status: 2
+status_message: null

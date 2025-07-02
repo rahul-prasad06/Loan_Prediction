@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/mlruns/144547382959727504/097bf44211814eae8f93dbe5c1e09557/artifacts
+end_time: 1751443486216
+entry_point_name: ''
+experiment_id: '144547382959727504'
+lifecycle_stage: active
+run_id: 097bf44211814eae8f93dbe5c1e09557
+run_name: AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751443466196
+status: 3
+tags: []
+user_id: prasa
